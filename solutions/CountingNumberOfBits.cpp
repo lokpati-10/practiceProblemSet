@@ -1,4 +1,5 @@
-vector<int>Bits(num+1);
+#include <vector>
+vector<int> Bits(int num){
 	int p = 1;
 	int pow = 1;
 	for(int i = 1; i <= num ; i++) {
@@ -12,3 +13,4 @@ vector<int>Bits(num+1);
 	}
 
 	return Bits;
+}

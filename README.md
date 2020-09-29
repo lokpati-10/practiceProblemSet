@@ -1,8 +1,8 @@
 ### This repository contains solutions of some standard problems.
-- [Knight on a chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/submissions/code/41706533)
+- [Knight on a chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem)
 - [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost/problem?h_r=internal-search)
 - [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem?h_r=internal-search)
-  - [YODANESS - Yodaness Level(SegmentTree))](https://www.spoj.com/problems/YODANESS/)
+- [YODANESS - Yodaness Level(SegmentTree))](https://www.spoj.com/problems/YODANESS/)
 - [YODANESS - Yodaness Level(Binary Index Tree)](https://www.spoj.com/problems/YODANESS/)
 - [Can you answer these queries I](https://www.spoj.com/problems/GSS1/)
 - [Lowest Common Ancestor](https://www.codechef.com/problems/TALCA)
